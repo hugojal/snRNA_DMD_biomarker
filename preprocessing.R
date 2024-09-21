@@ -17,3 +17,13 @@ seurat_VL$celltype <- recode(seurat_VL$celltype,
 
 # correct status names
 seurat_VL$status <- str_to_title(seurat_VL$status)
+
+# qc metrics
+qc_plot <- VlnPlot(seurat_VL, features = c("nFeature_RNA", "nCount_RNA"), cols = custom_palette, ncol = 2, combine = TRUE)
+qc_plot <- qc_plot + ggtitle("Quality Metrics")
+qc_plot <-  qc_plot + plot_annotation(tag_levels = 'a')
+save_plot(qc_plot, "qc_metrics")
+
+# clustering
+seurat_VL <- FindNeighbors(seurat_VL, dims = 1:10)
+seurat_VL <- FindClusters(seurat_VL, resolution = 0.5)
