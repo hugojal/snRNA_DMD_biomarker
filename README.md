@@ -5,11 +5,11 @@
 - snRNA Analysis
 - Role of AQP1 and AQP4 in Duchenne Muscular Dystrophy
 - Potential for new venues of research
-- 
+
 #### 📘 Read the Full Paper
 
 <div align="center">
-  <a href="Applying_Topological_Data_Analysis_to_Alzheimer_s_Disease_Diagnosis_from_MRI.pdf">
+  <a href=https://github.com/hugojal/snRNA_DMD_biomarker/blob/main/snRNA%20Transcriptomic%20Analysis%20to%20Assess%20the%20Role%20of%20AQP1%20and%20AQP4%20as%20Biomarkers%20for%20Duchenne%20Muscular%20Dystrophy.pdf>
     <img src="https://img.shields.io/badge/Read-Full%20Paper-brightgreen?style=for-the-badge&logo=adobe-acrobat-reader" alt="Read Full Paper">
   </a>
 </div>
