@@ -8,8 +8,8 @@
 
 ## 🚀 Key Features
 
-- 🧫 Cutting-edge single-nucleus RNA (snRNA) transcriptomic analysis
-- 🔍 In-depth exploration of AQP1 and AQP4 roles in Duchenne Muscular Dystrophy
+- 🧫 Single-nucleus RNA (snRNA) transcriptomic analysis
+- 🔍 Exploration of AQP1 and AQP4 roles in Duchenne Muscular Dystrophy
 - 🎯 Identification of potential new biomarkers and research avenues
 
 ## 📘 Read the Full Paper
